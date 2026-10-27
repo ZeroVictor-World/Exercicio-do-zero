@@ -1,8 +1,8 @@
 # Exercicio-do-zero
 
 
-trabalho esta sendo feitogit 
+trabalho esta sendo feito
 
 trabalho sendo feito pelo careca 
 
-zero
+trabalho nota zero
