@@ -1,4 +1,4 @@
 # Exercicio-do-zero
 
 
-trabalho esta sendo feito
+trabalho esta sendo feitogit 
